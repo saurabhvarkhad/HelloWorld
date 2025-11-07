@@ -1,2 +1,2 @@
 # HelloWorld
-NextStep In the world of programming
+FirstStep In the world of programming
